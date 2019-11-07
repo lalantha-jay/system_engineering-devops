@@ -1,0 +1,4 @@
+#!/bin/bash
+printf "\n\n\n"
+figlet -c L I N U X
+printf "%s\n\n\n" "                     WHERE THERE IS A SHELL, THERE IS A WAY!"
